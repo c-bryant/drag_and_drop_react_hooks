@@ -37,4 +37,23 @@ Follow these quick steps to get the development environment running on your loca
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone
+
+   ```
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd drag_and_drop_react_hooks
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Launch the local development server:**
+   ```bash
+   npm run start
+   ```
+   Open [http://localhost:3000](http://localhost:3000) inside your web browser to interact with the application.
+
